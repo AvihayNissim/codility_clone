@@ -29,4 +29,4 @@ A web application for solving coding challenges, inspired by Codility.
 
 6. **Access the application**
    Open your browser and navigate to:
-   http://localhost:5000
+   http://localhost:5000 or 5001
